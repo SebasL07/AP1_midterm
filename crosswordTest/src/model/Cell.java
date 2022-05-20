@@ -7,7 +7,7 @@ public class Cell {
 	
 	private CellType state;
 	private String letter;
-	private int number;
+	private int number ;
 	
 	
 	public Cell(CellType state, String letter, int number) {
